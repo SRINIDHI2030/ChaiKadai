@@ -17,6 +17,7 @@ A responsive landing page for a Tamil street food delivery app.
 - CSS
 - JavaScript
 
-## How to Run
-1. Clone repo
-2. Open index.html in browser
+## Future Improvements
+- Add backend for real ordering system
+- Integrate payment gateway
+- Improve UI animations
