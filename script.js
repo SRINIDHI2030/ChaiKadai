@@ -1,5 +1,8 @@
 // script.js
-
+// Button click feature
+document.getElementById("orderBtn").onclick = function() {
+  alert("Order feature coming soon!");
+};
 // Scroll animation for menu cards
 const cards = document.querySelectorAll('.card');
 
