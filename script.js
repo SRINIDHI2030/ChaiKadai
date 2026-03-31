@@ -15,3 +15,7 @@ window.addEventListener('scroll', () => {
     }
   });
 });
+//Cards animate only when you scroll
+window.onload = () => {
+  window.dispatchEvent(new Event('scroll'));
+};
